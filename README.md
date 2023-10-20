@@ -22,7 +22,7 @@ The code is well-documented and structured for clarity, making it easy to incorp
 
 **Getting Started**
 
-To start using this ADC driver, clone this repository, and refer to the example code and detailed documentation provided in the "docs" folder. Enjoy precise ADC readings with minimal effort!
+To start using this ADC driver, clone this repository, and refer to the example code. Enjoy precise ADC readings with minimal effort!
 
 **Contributions**
 
